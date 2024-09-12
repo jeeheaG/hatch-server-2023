@@ -26,6 +26,10 @@
 > Frontend: https://github.com/2023-HATCH/hatch-flutter-app-2023 <br />
 > Backend: https://github.com/2023-HATCH/hatch-server-2023 <br/>
 
+
+### Convention Rule
+- 해당 레파지토리의 [Wiki 페이지](https://github.com/jeeheaG/hatch-server-2023/wiki/Convention-Rules), 또는 [노션 페이지](https://ginger-bread.notion.site/e4a51bcb01f4426cb213378cb053d551?pvs=4)에 정리되어있습니다.
+
 ## Collaborators
 
 | <img src="https://avatars.githubusercontent.com/u/81364415?v=4" width=90px alt="김수빈"/>  | <img src="https://avatars.githubusercontent.com/u/61150378?v=4" width=90px alt="박지혜"/>  | <img src="https://avatars.githubusercontent.com/u/61674991?v=4" width=90px alt="이민영"/>  | <img src="https://avatars.githubusercontent.com/u/86946928?v=4" width=90px alt="문서연"/> |
