@@ -28,7 +28,7 @@
 
 
 ### Convention Rule
-- 해당 레파지토리의 [Wiki 페이지](https://github.com/jeeheaG/hatch-server-2023/wiki/Convention-Rules), 또는 [노션 페이지](https://ginger-bread.notion.site/e4a51bcb01f4426cb213378cb053d551?pvs=4)에 정리되어있습니다.
+- 해당 레파지토리의 [Wiki 페이지](https://github.com/jeeheaG/hatch-server-2023/wiki/Backend-Convention-Rules), 또는 [노션 페이지](https://ginger-bread.notion.site/e4a51bcb01f4426cb213378cb053d551?pvs=4)에 정리되어있습니다.
 
 ## Collaborators
 
