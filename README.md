@@ -12,8 +12,7 @@
 
 
 ### Introduction
-> 2023년도 덕성여자대학교 컴퓨터공학과 졸업작품 <br />
-> 팀: HATCH <br />
+> 팀명: HATCH <br />
 > 개발 기간: 2023.04 ~ 2023.11
 
 ### Achivement
